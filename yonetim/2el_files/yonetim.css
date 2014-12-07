@@ -1,0 +1,123 @@
+
+.Alt_menu{
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+.UrunGruplari{
+	FONT-SIZE: 11px; COLOR: #949494; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-DECORATION: none
+}
+.Text_baslik {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #BABABA; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: -1px
+}
+.Metin {
+	font-size:12px;
+	font-family:Tahoma,Verdana,Arial;
+	color:#666666;
+	line-height:16px;
+	TEXT-DECORATION: none
+}
+
+.Metin_hakimizda {
+	font-size:12px;
+	font-family:Tahoma,Verdana,Arial;
+	color:#666666;
+	line-height:19px;
+}
+
+
+.Metin_uretim {
+	font-size:12px;
+	font-family:Tahoma,Verdana,Arial;
+	color:#666666;
+	line-height:30px;
+}
+
+
+.Metin_haber {
+	font-size:12px;
+	font-family:Tahoma,Verdana,Arial;
+	color:#666666;
+	line-height:30px;
+}
+
+.Metin_arge {
+	font-size:12px;
+	font-family:Tahoma,Verdana,Arial;
+	color:#666666;
+	line-height:18px;
+}
+
+
+
+.Gizle{
+    DISPLAY:NONE
+}
+
+
+.Form100 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:98%;
+
+}
+
+.Form700 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:719px;
+
+}
+
+.Form80 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:80%;
+
+}
+
+.Form85 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:85%;
+
+}
+
+
+.Form85_2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:88%;
+
+}
+
+
+.Form50{
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:50px;
+
+}
+
+.Form50{
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:50px;
+
+}
+
+.Form75 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:75px;
+
+}
+
+.Form120 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:120px;
+
+}
+
+.Form150 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:150px;
+
+}
+.Form25{
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:19px;
+
+}
+
+.Form200 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana, Arial;  TEXT-ALIGN: justify; width:340px;
+
+}
+.iletisim_form{
+	FONT-WEIGHT: normal; FONT-SIZE:11px; COLOR: #666666; FONT-FAMILY: Tahoma  TEXT-ALIGN: justify; width:145px; HEIGHT:17px;
+
+}
+.iletisim_form2{
+	FONT-WEIGHT: normal; FONT-SIZE:12px; COLOR: #666666; FONT-FAMILY: Tahoma  TEXT-ALIGN: justify; width:252px; HEIGHT:88px;
+
+}
